@@ -1,4 +1,4 @@
-# GB_T_7714-2015_Generator
+# GB/T 7714-2015 Citation Generator
 A user-friendly web tool to auto-generate academic citations formatted to the Chinese GB/T 7714-2015 standard, the official national standard for information and documentation in China. It supports books, journals, patents, and electronic resources, simplifying bibliography for students and researchers. Licensed under CC BY-NC-SA 4.0. For further license details, please visit the file "LICENSE". You are free to to share and adapt the work for non-commercial purposes, provided you give appropriate credit and distribute your contributions under the same license. For commercial use, please contact me at "xxjlyh3332@gmail.com".
 
 一款直观易使用的的网页工具，可自动生成符合中国国家信息文献标准（GB/T 7714-2015）的学术引用格式（书籍、期刊、专利和电子公告）。本生成器采用 CC BY-NC-SA 4.0 许可协议。更多许可详情，请访问“LICENSE”文件。您可以自由地将本作品用于非商业用途，但需注明出处并遵循相同的许可协议分发您的贡献。如需商业用途，请联系“xxjlyh3332@gmail.com”。
